@@ -1,0 +1,1 @@
+<?php get_header();?><section class="wrap shop-content"><p class="demo-shop-notice">Демонстрационный магазин. Товары и заказы тестовые, реальные платежи не принимаются.</p><?php woocommerce_content();?></section><?php get_footer();?>
